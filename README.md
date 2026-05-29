@@ -31,8 +31,6 @@ A ideia do projeto é criar um site organizado e fácil de usar, mostrando motos
 * O site deve ser simples de usar.
 * O sistema deve carregar rápido.
 * O código deve ficar organizado.
-* O sistema deve funcionar no computador.
-
 
  *Regras de Negócio (RN)*
 
