@@ -41,4 +41,3 @@ A ideia do projeto é criar um site organizado e fácil de usar, mostrando motos
 * Apenas usuários logados podem entrar.
 * As motos devem mostrar nome e preço.
 
-Enzo Sobral
